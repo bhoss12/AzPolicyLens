@@ -13,6 +13,15 @@
           "deployKeySecretName": "git-deploy-key"
         }
       }
-    }
+    },
+ "app1": {
+          "title": "APP 1 DEV POLICY",
+          "gitRepository": "https://github.com/taoyangcloud/azure.policy.doc.app.dev.wiki.git",
+          "gitBranch": "master",
+          "pageStyle": "basic",
+          "gitUserName": "bhoss12",
+          "gitUserEmail": "gvsan12@gmail.com",
+          "subscriptionIds": "61e2b1af-bc5a-48cb-b54b-97bffe22f871",
+        }
   }
 }
