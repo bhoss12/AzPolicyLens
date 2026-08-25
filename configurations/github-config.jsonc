@@ -16,7 +16,7 @@
     },
  "app1": {
           "title": "APP 1 DEV POLICY",
-          "gitRepository": "https://github.com/taoyangcloud/azure.policy.doc.app.dev.wiki.git",
+          "gitRepository": "https://github.com/bhoss12/wiki-demo.wiki.git",
           "gitBranch": "master",
           "pageStyle": "basic",
           "gitUserName": "bhoss12",
