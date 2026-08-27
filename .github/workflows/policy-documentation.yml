@@ -48,7 +48,7 @@ jobs:
       - name: Discovery
         uses: ./.github/actions/templates/policyDocDiscovery
         with:
-          topLevelManagementGroupName: 'Dev'
+          topLevelManagementGroupName: '9490256362'
           environment: 'dev'
           buildArtifactName: 'policy_doc_dev'
           azPolicyLensModuleVersion: ${{ needs.job_call_initiation.outputs.azPolicyLensModuleVersion }}
