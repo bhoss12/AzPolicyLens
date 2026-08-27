@@ -4,7 +4,7 @@
       "description": "Development environment for policy documentation",
       "wiki": {
         "engineering": {
-          "title": "CONTOSO DEV POLICY",
+          "title": "Bhoss DEV POLICY",
           "gitRepository": "https://github.com/bhoss12/wiki-demo.wiki.git",
           "gitBranch": "master",
           "pageStyle": "detailed",
