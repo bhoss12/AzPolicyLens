@@ -249,10 +249,11 @@ if ($SubscriptionIds.length -gt 0) {
   Write-Output "Creating $pageStyle style wiki pages for all subscriptions."
 }
 
-if ($CustomSecurityControlPath.length -gt 0) {
+#if ($CustomSecurityControlPath.length -gt 0) {
   $param.add('CustomSecurityControlPath', $CustomSecurityControlPath)
   Write-Verbose "Custom security control path provided: '$CustomSecurityControlPath'." -Verbose
 }
+#
 Write-Verbose "Generating wiki pages with the following parameters:" -Verbose
 foreach ($key in $param.Keys) {
   if ($key -in @('EncryptionKey', 'EncryptionIV')) {
