@@ -14,7 +14,7 @@
             "61e2b1af-bc5a-48cb-b54b-97bffe22f871"
           ],
           "childManagementGroupId": "9490256362",
-          "githubToken": "GITHUBTOKEN_DEV"
+          "deployKeySecretName": "GITHUBDEPLOYKEY_DEV_ESLZ"
         }
       }
     }
