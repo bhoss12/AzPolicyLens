@@ -10,7 +10,7 @@
           "pageStyle": "detailed",
           "gitUserName": "bhoss12",
           "gitUserEmail": "gvsan12@gmail.com",
-          "deployKeySecretName": "git-deploy-key"
+          
         }
              }
     }
