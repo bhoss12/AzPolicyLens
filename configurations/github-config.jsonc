@@ -9,7 +9,8 @@
           "gitBranch": "master",
           "pageStyle": "detailed",
           "gitUserName": "bhoss12",
-          "gitUserEmail": "gvsan12@gmail.com"
+          "gitUserEmail": "gvsan12@gmail.com",
+          "githubToken: ${{ env.GithubToken }}"
           
         }
       }
