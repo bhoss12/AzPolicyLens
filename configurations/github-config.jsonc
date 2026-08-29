@@ -10,7 +10,18 @@
           "pageStyle": "detailed",
           "gitUserName": "bhoss12",
           "gitUserEmail": "gvsan12@gmail.com",
-          "childManagementGroupId": "7989212914",
+          "deployKeySecretName": "GITHUBDEPLOYKEY_DEV_ESLZ"
+        },
+        "app1": {
+          "title": "APP 1 DEV POLICY",
+          "gitRepository": "https://github.com/bhoss12/wiki-demo.wiki.git",
+          "gitBranch": "master",
+          "pageStyle": "basic",
+          "gitUserName": "bhoss12",
+          "gitUserEmail": "gvsan12@gmail.com",
+          "subscriptionIds": [
+            "61e2b1af-bc5a-48cb-b54b-97bffe22f871"
+          ],
           "deployKeySecretName": "GITHUBDEPLOYKEY_DEV_ESLZ"
         }
       }
