@@ -1,3 +1,0 @@
-@{
-  IncludeDefaultRules = $true
-}
